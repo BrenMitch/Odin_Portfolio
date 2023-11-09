@@ -74,6 +74,8 @@ button {
     display: inline-block;
     font-size: 14px;
     margin-right: 350px;
+    color: #ffffff;
+    padding: 3px 7px 3px 7px;
   }
 
 .container-2 img {
